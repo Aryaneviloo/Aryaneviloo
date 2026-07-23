@@ -1,6 +1,6 @@
 # Aryan
 
-Building AI systems from first principles — agents, memory infrastructure, inference engines, and the tools underneath them.
+Building AI systems from first principles agents, memory infrastructure, inference engines, and the tools underneath them.
 
 Currently focused on learning by building: turning ambitious ideas into working, tested software, one system at a time.
 
@@ -47,7 +47,7 @@ Currently focused on learning by building: turning ambitious ideas into working,
 
 ## Projects
 
-### [memorycore](https://github.com/Aryaneviloo/memorycore)
+### [memvault](https://github.com/Aryaneviloo/memvault)
 A production-grade, open-source Python library for AI agent memory infrastructure. Includes SQLite and in-memory storage backends, a scoring/decay/reinforcement layer, local embedding-based hybrid semantic retrieval, memory consolidation, a FastAPI service layer, and a Typer CLI — backed by 80+ tests.
 
 ### Project Sybil
